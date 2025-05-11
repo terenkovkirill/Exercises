@@ -1,5 +1,6 @@
+#coderun Pete VS Vasy решение полным перебором
 import sys
-from itertools import product               #Решение полным перебором
+from itertools import product
 
 def main():
     n = int(sys.stdin.readline())
